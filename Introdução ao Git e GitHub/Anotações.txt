@@ -1,2 +1,16 @@
 Link para download do Git: https://git-scm.com/downloads
 O Git bash é um terminal extendido para otimizar o uso do Git.
+
+• Para abrir o terminal dentro da pasta, basta criar um diretório novo e abrir o Git Bash;
+• Para abrir uma pasta dentro dester diretório use
+$ cd nome-da-pasta
+• Para clonar um repositório diretamente do GITHUB use:
+$ git clone colar-link-html-aqui
+• Para verificar se existe alguma alteração;
+$ git status
+• Para atualizar o repositório local use:
+$ git add .
+• Para subir o repositório atualizado use:
+$ git commit -m "criar um comentário objetivo sobre a att"
+• verifique se ocorreu tudo certo com:
+$ git status
