@@ -1,0 +1,3 @@
+Esse projeto foi bem interessante, pois, aprendi como criar um FORK, adicionar um UPSTREAM remoto, criar arquivos e subir ao diretório original.
+
+É muito importante, sempre que for criar algo novo, se atentar se foi o clone é do seu FORK, se você adicionou um caminho upstream remoto, se foi criada a branch, se está adicionando um arquivo .md na pasta correta. É muito importante ler todo o readme com as instruções para que o Pull Request seja feito de forma eficaz e não precise refazer como eu.
