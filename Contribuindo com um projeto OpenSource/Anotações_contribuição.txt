@@ -1,0 +1,3 @@
+Projetos OpenSource, são projetos de código aberto. 
+• É um software que as pessoas criam juntas, compartilham com o mundo, e todos podem dar uma mãozinha para deixá-lo cada vez melhor. É como se a criatividade de muitas pessoas se juntasse para fazer algo incrível e todo mundo pudesse aproveitar!
+• Então se as alguém quiser, testar novas funções, mudar alguns elementos ou até mesmo encontrar soluções para problemas existentes. Elas podem contribuir. O mais legal é que pessoas do mundo inteiro podem colaborar e assim formar um super time de desenvolvedores.
