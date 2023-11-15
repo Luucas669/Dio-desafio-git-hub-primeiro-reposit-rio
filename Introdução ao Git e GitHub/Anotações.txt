@@ -1,6 +1,8 @@
 Link para download do Git: https://git-scm.com/downloads
 O Git bash é um terminal extendido para otimizar o uso do Git.
 
+A linguagem utilizada no Github é .md (markdown). Uma linguagem de marcação mais simples que o HTML.
+
 • Para abrir o terminal dentro da pasta, basta criar um diretório novo e abrir o Git Bash;
 • Para abrir uma pasta dentro dester diretório use
 $ cd nome-da-pasta
@@ -14,3 +16,8 @@ $ git add .
 $ git commit -m "criar um comentário objetivo sobre a att"
 • verifique se ocorreu tudo certo com:
 $ git status
+• para criar um novo arquivo pelo terminal use:
+$ touch nomedoseuarquivo.md 
+ou se for criar um arquivo dentro de uma pasta já existente no repositório use:
+$ touch nomedapasta/nomedoseuarquivo.md
+Atenção: O nome da pasta deve ser exatamente igual ao do repositório. E não se esqueça de abrir o bash dentro do repositóri

@@ -2,3 +2,8 @@
 Nas instruções diz para clicarmos em FORK, que é simplesmente o mesmo projeto no seu namespace, permitindo que você faça alterações publicamente em um projeto como uma forma mais aberta de contribuir.
  Sendo assim nós baixamos o projeto através do git clone, adicionamos a nossa máquina e após isso nós podemos trabalhar nele e subir os ajustes 
 [Link útil](https://git-scm.com/book/pt-br/v2/GitHub-Contribuindo-em-um-projeto#:~:text=No%20GitHub%2C%20um%20“fork”,para%20dar%20acesso%20ao%20push.)
+
+Criando uma nova branch em um FORK.
+• Vamos utilizar o comando: git checkout -b feat/community/SEU_USERNAME;
+•Depois vamos criar um novo arquivo .md para isso iremos utilizar o comando touch nomedapasta/nome do arquivo.md
+Observação o nome da pasta deve ser exatamente o mesmo da pasta no repositório e o formato precisa ser .md
